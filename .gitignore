@@ -1,0 +1,5 @@
+cat > .gitignore << 'EOF'
+venv/
+ckpt/
+__pycache__/
+*.safetensors
